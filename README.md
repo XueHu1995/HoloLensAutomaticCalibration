@@ -1,5 +1,5 @@
 # HoloLensAutomaticCalibration
-Improve the virtual-to-real alignment of HoloLens by automating calibration and reducing the parallax with an eye tracker.\<br>  
+Improve the virtual-to-real alignment of HoloLens by automating calibration and reducing the parallax with an eye tracker. 
 Tested with Pupil Lab eye camera. 
 + Real-time target (Aruco marker) tracking: by OpenCV library; 
 + Coordinate transformation within HoloLens: with Webcam intrinsic and WebcamToWorld sourced from MediaCapture class
